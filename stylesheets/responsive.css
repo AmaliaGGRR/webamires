@@ -61,3 +61,19 @@
        }
 }
 
+ @media screen and (max-width: 1280px) {
+    .pugg{
+   
+    
+    height: 400px;
+    
+}
+.pug{
+    width: 1400px;
+    height: 400px;
+   
+  
+}
+}
+
+
