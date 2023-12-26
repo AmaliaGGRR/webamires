@@ -62,15 +62,9 @@
 }
 
  @media screen and (max-width: 600px) {
-    .pugg{
-   
-    
-    height: 350px;
-    
-}
+  
 .pug{
-    width: 1400px;
-    height: 350px;
+    width: 70%;
    
   
 }
