@@ -64,7 +64,8 @@
  @media screen and (max-width: 600px) {
   
 .pug{
-    width: 70%;
+    width: 1300px;
+    height: 300px;
    
   
 }
